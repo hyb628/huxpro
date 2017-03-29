@@ -1,5 +1,7 @@
 #Hux Blog
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hyb628/huxpro.svg)](https://greenkeeper.io/)
+
 ###[View Live Hux Blog &rarr;](http://huxpro.github.io)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
